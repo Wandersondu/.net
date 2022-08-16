@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiHotReload", "ApiHotReload\ApiHotReload.csproj", "{8CBDE869-F8A5-4364-ADDD-CEA34EE529E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CBDE869-F8A5-4364-ADDD-CEA34EE529E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CBDE869-F8A5-4364-ADDD-CEA34EE529E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CBDE869-F8A5-4364-ADDD-CEA34EE529E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CBDE869-F8A5-4364-ADDD-CEA34EE529E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0BB2F6D-5219-446E-A0D6-181758EE5D5E}
+	EndGlobalSection
+EndGlobal
