@@ -8,7 +8,7 @@ public class Produto
 
     public string? Descricao { get; set; }
 
-    public decimal preco { get; set; }
+    public decimal Preco { get; set; }
 
     public string? ImagemUrl { get; set; }
 
