@@ -1,0 +1,15 @@
+C:\Users\wdutr\workspace\.Net\C#-Iniciante\bin\Debug\net6.0\C#-Iniciante.exe
+C:\Users\wdutr\workspace\.Net\C#-Iniciante\bin\Debug\net6.0\C#-Iniciante.deps.json
+C:\Users\wdutr\workspace\.Net\C#-Iniciante\bin\Debug\net6.0\C#-Iniciante.runtimeconfig.json
+C:\Users\wdutr\workspace\.Net\C#-Iniciante\bin\Debug\net6.0\C#-Iniciante.dll
+C:\Users\wdutr\workspace\.Net\C#-Iniciante\bin\Debug\net6.0\C#-Iniciante.pdb
+C:\Users\wdutr\workspace\.Net\C#-Iniciante\obj\Debug\net6.0\C#-Iniciante.csproj.AssemblyReference.cache
+C:\Users\wdutr\workspace\.Net\C#-Iniciante\obj\Debug\net6.0\C#-Iniciante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wdutr\workspace\.Net\C#-Iniciante\obj\Debug\net6.0\C#-Iniciante.AssemblyInfoInputs.cache
+C:\Users\wdutr\workspace\.Net\C#-Iniciante\obj\Debug\net6.0\C#-Iniciante.AssemblyInfo.cs
+C:\Users\wdutr\workspace\.Net\C#-Iniciante\obj\Debug\net6.0\C#-Iniciante.csproj.CoreCompileInputs.cache
+C:\Users\wdutr\workspace\.Net\C#-Iniciante\obj\Debug\net6.0\C#-Iniciante.dll
+C:\Users\wdutr\workspace\.Net\C#-Iniciante\obj\Debug\net6.0\refint\C#-Iniciante.dll
+C:\Users\wdutr\workspace\.Net\C#-Iniciante\obj\Debug\net6.0\C#-Iniciante.pdb
+C:\Users\wdutr\workspace\.Net\C#-Iniciante\obj\Debug\net6.0\C#-Iniciante.genruntimeconfig.cache
+C:\Users\wdutr\workspace\.Net\C#-Iniciante\obj\Debug\net6.0\ref\C#-Iniciante.dll
