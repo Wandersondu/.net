@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wdutr\\workspace\\.net\\APICatalago\\APICatalago\\APICatalago.csproj": {}
+    "C:\\Users\\wdutr\\workspace\\.Net\\APICatalago\\APICatalago\\APICatalago.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wdutr\\workspace\\.net\\APICatalago\\APICatalago\\APICatalago.csproj": {
+    "C:\\Users\\wdutr\\workspace\\.Net\\APICatalago\\APICatalago\\APICatalago.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wdutr\\workspace\\.net\\APICatalago\\APICatalago\\APICatalago.csproj",
+        "projectUniqueName": "C:\\Users\\wdutr\\workspace\\.Net\\APICatalago\\APICatalago\\APICatalago.csproj",
         "projectName": "APICatalago",
-        "projectPath": "C:\\Users\\wdutr\\workspace\\.net\\APICatalago\\APICatalago\\APICatalago.csproj",
+        "projectPath": "C:\\Users\\wdutr\\workspace\\.Net\\APICatalago\\APICatalago\\APICatalago.csproj",
         "packagesPath": "C:\\Users\\wdutr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wdutr\\workspace\\.net\\APICatalago\\APICatalago\\obj\\",
+        "outputPath": "C:\\Users\\wdutr\\workspace\\.Net\\APICatalago\\APICatalago\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gFDoySBjVscHGRCTWTL24H4JOBbBl6zZbvRNJY8czv2GbsyRpnNF50qnSDLapRJNRdb5Kou+97U1C2Ycc5TATg==",
+  "dgSpecHash": "tAZ0J5BGphIqcCGGE+wsc7+YK3UaQP+1/xEyzFPes7O0T+tReyOgWFRi2astccusWCwvmWnBsPV9KAirmj0k4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wdutr\\workspace\\.net\\APICatalago\\APICatalago\\APICatalago.csproj",
+  "projectFilePath": "C:\\Users\\wdutr\\workspace\\.Net\\APICatalago\\APICatalago\\APICatalago.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wdutr\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\wdutr\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.8\\microsoft.entityframeworkcore.6.0.8.nupkg.sha512",
