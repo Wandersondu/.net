@@ -14,7 +14,7 @@ else
 {
     Console.WriteLine("você é menor de idade. ");
 }
-*/
+
 
 class Program
 {
@@ -27,6 +27,8 @@ class Program
         Test t = new Test();
         t.X = 12;
         
+        t = null;
+
         Test t2 = t;
         t2 = new Test();
         t2.X = 20;
@@ -35,3 +37,55 @@ class Program
     }
 }
 
+*/
+
+class Program
+{
+      static void Main()
+      {
+            BankAccount account1 = new BankAccount("Dutra", 1000);
+ 
+            BankAccount account2 = new BankAccount("Peter", 1000);
+
+            account1.Deposit(-100);
+
+            account2.Deposit(100);
+
+            console.WriteLine(account2.GetBalance());
+      }
+}
+
+class BankAccount
+{
+      private string name;
+
+      private decimal balance;
+
+      public BankAccount(string name, decimal balance)
+      {
+            if(string.IsNullOrWhiteSpace(name))
+            {
+                  throw new Exception("Nome inválido.", nameof(name));
+            }
+            if(balance < 0)
+            {
+                  throw new Exception("Saldo não pode ser negativo.");
+            }
+            this.name = name;
+            this.balance = balance;
+      }
+      public void Deposit(decimal amount)
+      {
+            if(amount <= 0)
+            {
+                  return;
+            }
+
+            balance += amount;
+      }
+
+      public decimal GetBalance()
+      {
+            return balance;
+      }
+}
